@@ -1,0 +1,20 @@
+{
+  "quizTitle": "Семейное Право",
+  "questionsFile": "/questions.json",
+  "backgroundImage": "/background.png",
+  "theme": {
+    "allowToggle": true
+  },
+  "shuffleQuestions": true,
+  "coverSheet": {
+    "university": "ФГБОУ ВО «Поволжский государственный университет телекоммуникаций и информатики»",
+    "department": "связей с общественностью",
+    "discipline": "Правоведение",
+    "authors": ["Гаврилов Кирилл Витальевич"],
+    "group": "ИВТ-44у",
+    "supervisor": "Шеремеев Евгений Евгеньевич",
+    "supervisorRole": "Доцент кафедры связей с общественностью",
+    "city": "Самара",
+    "year": 2026
+  }
+}
